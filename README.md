@@ -1,4 +1,4 @@
-# Script SpamWa
+# Script Spam WhatsApp
 
 - $ pkg install python
 - $ pkg install git
@@ -6,6 +6,3 @@
 - $ git clone https://github.com/marvelldigitalcloud/spam-wa
 - $ cd spam-wa
 - $ python3 spam.py
-
-Sekian terimakasih
-
