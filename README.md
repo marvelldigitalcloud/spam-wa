@@ -1,7 +1,12 @@
 <div align="center">
   <img src="./spam.jpg" alt="s" width="800" height"128"/>
 
+---
+</div>
+
 # Script Spam Sms dan WhatsApp
+---
+</div>
 
 ```bash
 $ pkg install python
