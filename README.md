@@ -8,6 +8,9 @@
 ---
 </div>
 
+## Installation
+
+### For Termux
 ```bash
 $ pkg install python
 $ pkg install git
