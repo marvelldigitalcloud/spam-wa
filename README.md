@@ -1,4 +1,7 @@
-# Script Spam WhatsApp
+<div align="center">
+  <img src="./spam.jpg" alt="s" width="800" height"128"/>
+
+# Script SpamWa
 
 - $ pkg install python
 - $ pkg install git
@@ -6,3 +9,6 @@
 - $ git clone https://github.com/marvelldigitalcloud/spam-wa
 - $ cd spam-wa
 - $ python3 spam.py
+
+Sekian terimakasih
+
